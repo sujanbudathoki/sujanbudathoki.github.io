@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="210mm" height="297mm" id="svg2" version="1.1" viewBox="709.299 814.373 41.227 145.882" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs id="defs4">
+    <radialGradient gradientUnits="userSpaceOnUse" cx="139.934" cy="611.836" r="341.422" id="gradient-0">
+      <stop offset="0" style="stop-color: rgb(219, 99, 99);"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="398.578" cy="886.587" r="352.859" id="gradient-1">
+      <stop offset="0" style="stop-color: rgb(96, 29, 44);"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="-295.714" cy="1052.362" r="141.429" id="gradient-2">
+      <stop offset="0" style="stop-color: #bada55"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="0" cy="0" r="0" id="gradient-3">
+      <stop offset="0" style="stop-color: #bada55"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </radialGradient>
+    <style bx:fonts="Aclonica" bx:pinned="true">@import url(https://fonts.googleapis.com/css2?family=Aclonica%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+    <linearGradient id="gradient-4">
+      <stop offset="0" style="stop-color: #bdc3c7;"/>
+      <stop offset="1" style="stop-color: #2c3e50;"/>
+    </linearGradient>
+    <style bx:fonts="Actor" bx:pinned="true">@import url(https://fonts.googleapis.com/css2?family=Actor%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="216.947" y1="250.402" x2="216.947" y2="283.701" id="gradient-5" gradientTransform="matrix(0.995037, -0.099505, 0.047619, 0.476188, -10.84727, 152.750737)">
+      <stop offset="0" style="stop-color: rgba(144, 51, 51, 1)"/>
+      <stop offset="1" style="stop-color: rgb(147, 239, 224);"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" style="" transform="matrix(1, 0, 0, 1.032815, 0, -4.499434)">
+    <g id="g3054" transform="matrix(0.93187085,0,0,0.888677,-4.3266925,-43.981125)">
+      <path id="rect2996" d="M 122.625 203.781 C 86.356 203.781 57.156 232.981 57.156 269.25 L 57.156 646.906 C 57.156 683.176 86.356 712.375 122.625 712.375 L 674.531 712.375 C 710.801 712.375 740 683.176 740 646.906 L 740 269.25 C 740 232.981 710.801 203.781 674.531 203.781 L 122.625 203.781 Z M 395.719 232.375 C 402.82 232.375 408.563 238.118 408.563 245.219 C 408.563 252.32 402.82 258.063 395.719 258.063 C 388.618 258.063 382.844 252.32 382.844 245.219 C 382.844 238.118 388.618 232.375 395.719 232.375 Z M 105.719 280.938 L 691.438 280.938 L 691.438 658.063 L 105.719 658.063 L 105.719 280.938 Z M 151.438 686.656 L 631.438 686.656 L 631.438 706.656 L 151.438 706.656 L 151.438 686.656 Z" style="fill-rule: nonzero; stroke: none; fill-opacity: 0.69; fill: url(#gradient-0); paint-order: fill;"/>
+      <path id="path3012" d="M 697.156 706.656 L 114.281 712.375 C 65.053 709.934 71.962 726.175 65.719 738.063 L 45.719 886.656 C 47.067 900.942 39.671 915.214 77.156 929.5 L 682.844 935.219 L 720 932.375 C 732.503 926.195 746.233 924.874 751.438 889.5 L 734.281 735.219 L 697.156 706.656 Z M 145.719 712.375 L 634.281 712.375 L 648.563 778.063 L 128.563 780.938 L 145.719 712.375 Z M 282.844 789.5 L 508.563 789.5 L 508.563 809.5 L 282.844 809.5 L 282.844 789.5 Z M 404.281 816.656 L 510 816.656 L 510 836.656 L 404.281 836.656 L 404.281 816.656 Z M 282.844 818.063 L 395.369 814.55 L 388.563 838.063 L 282.844 838.063 L 282.844 818.063 Z M 48.563 869.5 L 740 869.5 L 740 872.375 C 774.004 868.539 95.776 867.049 48.563 872.375 L 48.563 869.5 Z" style="stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linejoin: miter; stroke-opacity: 1; fill-opacity: 0.69; fill-rule: nonzero; fill: url(#gradient-1); paint-order: fill;"/>
+    </g>
+    <rect style="fill-rule: nonzero; stroke: none; paint-order: stroke; fill-opacity: 0.69; fill: url(#gradient-2);" id="rect3014" width="282.85715" height="5.7142859" x="-437.14285" y="1049.505"/>
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; paint-order: stroke; fill-opacity: 0.69; fill-rule: nonzero; fill: url(#gradient-3);" id="path3020"/>
+  </g>
+  <g transform="matrix(2.331477, 0, 0, 9.690224, 92.471931, 206.355728)" style="">
+    <rect x="0" y="0" width="236" height="36" style="fill: url(#gradient-4);"/>
+  </g>
+  <text x="249.454" y="350.3" style="white-space: pre; font-size: 95.1404px; font-family: Actor;"> Sujan<tspan x="249.45399475097656" dy="1em">​</tspan>   PC</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="247.868" y="413.727"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="-256.376" y="236.131"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="-148.55" y="429.583"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="-89.881" y="263.088"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="1048.633" y="653.163"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="1048.633" y="653.163"> </text>
+  <rect x="198.712" y="250.402" width="36.47" height="33.299" style="fill: url(#gradient-5); fill-opacity: 0.09;"/>
+  <rect x="544.389" y="462.882" width="34.885" height="36.47" style="fill: rgb(11, 2, 34);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="499.99" y="423.945"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="-112.08" y="392.232"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 44.4px;" x="-276.99" y="798.34"> </text>
+</svg>

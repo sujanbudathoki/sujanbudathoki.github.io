@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <link href="./CSS/main.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+
+
+        .js #loader {
+            display: block;
+            position: absolute;
+            left: 100px;
+            top: 0;
+        }
+
+        .se-pre-con {
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background: url(https://smallenvelop.com/wp-content/uploads/2014/08/Preloader_11.gif) center no-repeat #fff;
+        }
+
+        .content {
+            display: none;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800" rel="stylesheet" />
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+</head>
+<body>
+    <div class="se-pre-con"></div>
+    <div class="content">
+        <nav class="bg-white shadow-lg">
+            <div class="max-w-6xl mx-auto px-4">
+                <div class="flex justify-between">
+                    <div class="flex space-x-7">
+                        <div>
+                            <div class="hidden md:flex items-center space-x-1">
+                                <a href="./Index.html" class="py-4 px-2 text-gray-500 font-semibold hover:text-green-500 transition duration-300">Home</a>
+                                <a href="#" class="py-4 px-2 text-green-500 border-b-4 border-green-500 font-semibold ">Projects</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </nav>
+        <div class="container margin-left-content">
+
+            <br />
+            <ul class="list-disc">
+                <li>
+                    <h4 class="text-blue-500">Mediflow Module</h4> <br />
+
+
+                    <p style="max-width:500px;">
+                        Mediflow Module is  role based CMS
+                        based on ASP.NET MVC . It is a
+                        system which contains 2 roles developer and
+                        supporter where developer can insert,
+                        update and delete procedures, HTML
+                        settings and notify changes to supporters
+                        where supporters can insert hospital
+                        details and able to only read HTML settings
+                        and data.
+                        <br />
+                        <br />
+                        CMS Link - <a href="http://202.51.75.248:5001/">http://202.51.75.248:5001/</a>
+                        <br />
+                        <br />
+                        <h6 class="text-gray-500" style="text-decoration:underline #00ffff">More Details</h6>
+                        <br />
+                        Framework - ASP.NET MVC
+                        <br />
+                        ORM - Dapper
+                        <br />
+                        Database - SQL Server
+                        <br />
+                        Js Library - Toastr , Alertify
+                        <br />
+                        More Tools - Bootstrap , jquery , jquery-ajax
+
+                    </p>
+                    <br />
+                    <p style="max-width:500px;color:#ff6a00">
+                        <i>
+                            "Mediflow Module is a role based CMS which i made during the internship in Mediflow Pvt. Ltd.
+                            Big thanks to Sandesh,Ranish Dai,Sanir Dai , Hemant Dai, Deepak Dai and our Project Manager Mr.Kapil sir for guiding me in this project."
+                        </i>
+                    </p>
+                    <br/>
+                </li>
+                
+                <li>
+                    
+                    <h4 class="text-blue-500">Digital Attendance</h4> <br />
+
+
+                                                                      <p style="max-width:500px;">
+                                                                          Digital Attendance is a web application based on ASP.NET MVC build for my 7th sem minor project which provides attendance related features based on web. It is a software developed for daily evaluation of students in their continuous assessment record, and performance in accordance with the principle of the institution. It is facilitated to access the performance and information of attendance of a particular Student in a particular semester of study. The information is sorted by the teachers, instructors and advisors, as provided by the student for a particular day throughout a complete semester. This system will also enable the evaluation of student regular presence in various lectures which will determine the eligibility of the student to sit for a semester examination.
+                                                                          <br />
+                                                                          <br />
+                                                                          Project Link - <a href="https://github.com/sujanbudathoki/Digital-Attendance">https://github.com/sujanbudathoki/Digital-Attendance</a>
+                                                                          <br />
+                                                                          <br />
+                                                                          <h6 class="text-gray-500" style="text-decoration:underline #00ffff">More Details</h6>
+                                                                          <br />
+                                                                          Framework - ASP.NET MVC
+                                                                          <br />
+                                                                          ORM - Entity Framework
+                                                                          <br />
+                                                                          Database - SQL Server
+                                                                          <br />
+                                                                          Js Library - Toastr , Alertify
+                                                                          <br />
+                                                                          Front-End Libraries - Materialize css
+
+                                                                      </p>
+                    <br />
+                    <p style="max-width:500px;color:#ff6a00">
+                        <i>
+                            "Digital Attendance is an attendance management system based on asp.net mvc and entity framework which i build for 7th sem minor project."
+                        </i>
+                    </p>
+                </li>
+
+            </ul>
+            <br />
+          
+
+        </div>
+    </div>
+       
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+        <script>
+            $(window).load(function () {
+
+                $(".se-pre-con").fadeOut(2000, function () {
+                    $('.content').fadeIn(1000);
+                });
+            });
+        </script>
+</body>
+</html>
